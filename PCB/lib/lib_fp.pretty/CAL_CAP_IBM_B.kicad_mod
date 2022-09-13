@@ -1,0 +1,13 @@
+(footprint "CAL_CAP_IBM_B" (version 20220621) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 0 270) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 694faecf-0c86-4672-808f-f37725b979a2)
+  )
+  (fp_text value "CAL_CAP_IBM_F" (at 0 -0.5) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1d848ad4-320c-459e-85d5-bb58bc09c341)
+  )
+  (pad "COL" smd rect (at 0 0) (size 5.1 12.7) (layers "B.Cu") (tstamp 32be0bf2-c78f-4bed-9803-b5b45522282b))
+  (pad "ROW" smd rect (at 0 0) (size 5.1 12.7) (layers "F.Cu") (tstamp 8d72c72f-09a8-4c33-810c-39074d3c6620))
+)

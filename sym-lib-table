@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "lib_sch")(type "Legacy")(uri "${KIPRJMOD}/lib/lib_sch/lib_sch.lib")(options "")(descr ""))
-  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/lib/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name "BeamSymbol")(type "KiCad")(uri "${KIPRJMOD}/lib/BeamSymbol.kicad_sym")(options "")(descr ""))
-)
