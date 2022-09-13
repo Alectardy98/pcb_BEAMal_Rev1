@@ -2,4 +2,6 @@
   (lib (name "lib_sch")(type "Legacy")(uri "${KIPRJMOD}/lib/lib_sch/lib_sch.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/lib/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "BeamSymbol")(type "KiCad")(uri "${KIPRJMOD}/lib/BeamSymbol.kicad_sym")(options "")(descr ""))
+  (lib (name "model_f_at_locklights_sym")(type "Legacy")(uri "${KIPRJMOD}/lib/Xwhatsit/model_f_at_locklights_sym.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/lib/Xwhatsit/ProMicroKiCad/promicro_library/promicro.lib")(options "")(descr ""))
 )
