@@ -64,7 +64,7 @@
       37
     ],
     "visible_layers": "ffe10ef_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "BEAMal_Rev1.kicad_prl",
