@@ -8,4 +8,6 @@
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/lib/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/lib/Xwhatsit/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
   (lib (name "TH-XWhatsIt")(type "KiCad")(uri "${KIPRJMOD}/lib/Xwhatsit/TH-XWhatsIt.pretty")(options "")(descr ""))
+  (lib (name "capacitor_smd")(type "KiCad")(uri "${KIPRJMOD}/lib/Xwhatsit/capacitor_smd.pretty")(options "")(descr ""))
+  (lib (name "Resistor_SMD")(type "KiCad")(uri "${KIPRJMOD}/lib/Xwhatsit/Resistor_SMD.pretty")(options "")(descr ""))
 )
