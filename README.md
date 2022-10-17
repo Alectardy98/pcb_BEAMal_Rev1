@@ -1,8 +1,9 @@
 # BEAMAL Rev. 1 
     A Custom Replacment PCB and case, using the IBM 6580 Displaywriter System as a base
                                             
-![BEAMal Rev1_Top](https://user-images.githubusercontent.com/61422584/189928543-537204ac-b27b-4bec-93df-06f02b2ea461.png)
-![BEAMal Rev1_Bottom](https://user-images.githubusercontent.com/61422584/189928587-36792f6f-f6df-4fae-aa94-edf01e585f31.png)
+![capture-2022-10-17T17_06_59 611Z](https://user-images.githubusercontent.com/61422584/196242792-53231540-8321-45a6-9ad7-baa9ef112065.png)
+![capture-2022-10-17T17_06_51 711Z](https://user-images.githubusercontent.com/61422584/196242800-8f47fe11-16cf-41ff-8308-067f23b0ca26.png)
+
 
 All Supported Layouts can be seen [HERE](http://www.keyboard-layout-editor.com/#/gists/b96d65da63be744e5e54532b00e9445a)
 
